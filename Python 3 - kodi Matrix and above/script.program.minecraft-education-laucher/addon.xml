@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.program.minecraft-education-laucher" name="Minecraft EE Laucher" version="0.0.3" provider-name="messbl">
+	<requires>
+		<import addon="xbmc.python" version="3.0.0"/>
+	</requires>
+	<extension point="xbmc.python.script" library="addon.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">Runs Minecraft Education Edition executable from Kodi</summary>
+		<description lang="en">Very simple script executing a windows binary (Minecraft Education Edition)</description>
+		<license>GNU General Public License, v2</license>
+		<language></language>
+		<forum>http://forum.kodi.tv/showthread.php?tid=193856</forum>
+		<source>https://github.com/messbl/messXBMC/script.program.minecraft-education-launcher</source>
+		<website>Kodi.tv</website>
+		<email>messbl@wp.pl</email>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+			<screenshot>resources/screenshot - 01.png</screenshot>
+			<screenshot>resources/screenshot - 02.png</screenshot>
+			<screenshot>resources/screenshot - 03.png</screenshot>
+			<screenshot>resources/screenshot - 04.png</screenshot>	
+	</assets>
+		<news>Just started creating addons</news>
+	</extension>
+</addon>

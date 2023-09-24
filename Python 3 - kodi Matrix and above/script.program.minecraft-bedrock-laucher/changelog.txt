@@ -1,0 +1,4 @@
+0.0.4 updated github path, adapted python version to conform with above Matrix requierements (>=3.0)
+0.0.3 reorganized media
+0.0.2 wersj 2 skompresowano grafiki (oprócz ikon) i poprawiono polecenie subprocess (żyby nawias obejmował całą komendę)
+0.0.1 pierwsza wersja, spisana z tutoriala Hello World i skryptu Dave'a, obrazki zassane z internetu

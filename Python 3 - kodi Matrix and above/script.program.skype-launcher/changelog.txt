@@ -1,0 +1,2 @@
+0.0.1 pierwsza wersja, spisana z tutoriala Hello World i skryptu Dave'a, obrazki zassane z internetu
+0.0.2 adapted for above Matrix versions, requiring python > 3

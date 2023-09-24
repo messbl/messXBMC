@@ -1,0 +1,2 @@
+0.0.1 pierwsza wersja, spisana z tutoriala Hello World, obrazki zassane z internetu
+0.0.2 Second edition - adapterd for > 20 kodi versions

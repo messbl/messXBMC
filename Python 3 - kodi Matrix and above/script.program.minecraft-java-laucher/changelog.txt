@@ -1,0 +1,3 @@
+0.0.1 pierwsza wersja, spisana z tutoriala Hello World, obrazki zassane z internetu
+0.0.2 wersj 2 skompresowano grafiki (oprócz ikon) i poprawiono polecenie subprocess (żyby nawias obejmował całą komendę)
+0.0.3 adapted required python version do Matrix expectations 

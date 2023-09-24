@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.program.whatsapp-laucher" name="Whatsapp Web Laucher" version="0.0.3" provider-name="messick">
+	<requires>
+		<import addon="xbmc.python" version="3.0.0"/>
+	</requires>
+	<extension point="xbmc.python.script" library="addon.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">Runs Whatsapp PC executable from Kodi</summary>
+		<description lang="en">Very simple script executing a windows binary (Whatsapp Web Edition)</description>
+		<license>GNU General Public License, v2</license>
+		<language></language>
+		<forum>http://forum.kodi.tv/showthread.php?tid=193856</forum>
+		<source>https://github.com/mesbl/script.program.whatsapp-launcher</source>
+		<website>Kodi.tv</website>
+		<email>admin@kazik.dapit.net</email>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+			<screenshot>resources/screenshot-01.jpg</screenshot>
+			<screenshot>resources/screenshot-02.jpg</screenshot>
+			<screenshot>resources/screenshot-03.jpg</screenshot>
+		</assets>
+		<news>Just started creating addons</news>
+	</extension>
+</addon>

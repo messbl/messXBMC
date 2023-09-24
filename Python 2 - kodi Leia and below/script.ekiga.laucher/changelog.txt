@@ -1,0 +1,1 @@
+0.0.1 pierwsza wersja, spisana z tutoriala Hello World, obrazki zassane z internetu

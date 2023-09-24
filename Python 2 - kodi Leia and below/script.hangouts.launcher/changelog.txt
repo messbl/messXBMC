@@ -1,0 +1,2 @@
+0.0.1 pierwsza wersja, spisana z tutoriala Hello World, obrazki zassane z internetu
+0.0.2 wersję Pythona zmieniono z 3.0.0 na 3.5

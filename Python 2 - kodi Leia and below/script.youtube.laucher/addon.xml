@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.youtube.laucher" name="Youtube website launcher" version="0.0.3" provider-name="messick">
+	<requires>
+		<import addon="xbmc.python" version="2.14.0"/>
+	</requires>
+	<extension point="xbmc.python.script" library="addon.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">Runs Youtube website in a Chrome window from Kodi</summary>
+		<description lang="en">Very simple script executing a browser window with a specified site</description>
+		<license>GNU General Public License, v2</license>
+		<language></language>
+		<forum>http://forum.kodi.tv/showthread.php?tid=193856</forum>
+		<source>https://github.com/messick/script.youtube.launcher</source>
+		<website>Kodi.tv</website>
+		<email>admin@kazik.dapit.net</email>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+			<screenshot>resources/screenshot-01.jpg</screenshot>
+			<screenshot>resources/screenshot-02.jpg</screenshot>
+			<screenshot>resources/screenshot-03.jpg</screenshot>
+		</assets>
+		<news>Just started creating addons</news>
+	</extension>
+</addon>
